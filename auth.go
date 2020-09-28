@@ -35,7 +35,7 @@ const (
 	AuthorizationHeader = "Authorization"
 
 	// Bearer the type of token expected
-	BearerSchema = "Bearer"
+	BearerSchema = "Bearer "
 
 	// Forward slash character
 	ForwardSlash = "/"
